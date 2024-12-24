@@ -1,10 +1,13 @@
-# Data-Analysis-And-Visualization-Portfolio-Projects
+# SALES REPORT FOR AN ONLINE SALES GROCERY STORE
 
-Welcome to my data analysis portfolio! This repository showcases various data analysis and machine learning projects I have worked on. I've done them for acadamic, self-learning, and just for fun. Presented form of in Excel files, Power BI Files, Jupyter notebooks etc. Below is a list of the projects included in this portfolio:
 
-## - POWER BI Projects
 
-- **[Real Time Power BI Projects](./project_1)**: An intercative Real Time Power BI Project
+
+
+![image](https://github.com/user-attachments/assets/2cc9c038-dbef-49ea-bddc-89cf76a31f1c)
+
+
+
 
 
 ## Contact
