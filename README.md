@@ -9,7 +9,7 @@
 
 <img width="631" alt="image" src="https://github.com/user-attachments/assets/b72d7fea-806a-496d-baad-ea80e46f6e6a" />
 
-<img width="935" alt="image" src="https://github.com/user-attachments/assets/511192b4-1dfd-4519-83dc-d5c9243a6357" />
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/9f03a411-8c19-47d5-a272-513116d95735" />
 
 ## Contact
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kudakwashe-kurida-32870714a/) or email (kudakwashe.kurida@outlook.com) for any collaborations or opportunities.
