@@ -1,4 +1,4 @@
-# INTERACTIVE REALL TIME SALES REPORT FOR AN ONLINE SALES GROCERY STORE
+# INTERACTIVE REAL TIME SALES REPORT FOR AN ONLINE SALES GROCERY STORE
 
 
 ![Business requirements](https://github.com/user-attachments/assets/3cfd5108-77fe-4eff-adec-69b8f951efab)
