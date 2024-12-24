@@ -1,12 +1,11 @@
 # SALES REPORT FOR AN ONLINE SALES GROCERY STORE
 
 
+![Business requirements](https://github.com/user-attachments/assets/3cfd5108-77fe-4eff-adec-69b8f951efab)
 
+![image](https://github.com/user-attachments/assets/aa21f701-9f0f-4c61-afd9-4b9ede0b205a)
 
-
-![image](https://github.com/user-attachments/assets/2cc9c038-dbef-49ea-bddc-89cf76a31f1c)
-
-
+![image](https://github.com/user-attachments/assets/975efb49-e663-4e5e-a6df-38cc103b5122)
 
 
 
